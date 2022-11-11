@@ -24,6 +24,10 @@
             background image :url('https://fondosmil.com/fondo/52387.jpg'); 
             
         }
+        .card{
+            box-shadow: 13px 11px 12px #E31821;
+
+
     </style>
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
