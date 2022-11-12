@@ -27,6 +27,8 @@
         .card{
             box-shadow: 13px 11px 12px #E31821;
 
+        }
+
 
     </style>
     <div id="app">
